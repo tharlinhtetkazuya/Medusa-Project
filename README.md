@@ -159,3 +159,4 @@ The storefront is configured via environment variables in `apps/storefront/.env.
 # Medusa-Project
 # Medusa-Project
 # Medusa-Project
+# Medusa-Project
